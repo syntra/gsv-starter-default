@@ -1,9 +1,11 @@
-# gatsby-starter-blog
-Gatsby starter for creating a blog
+# gsv-starter-blog
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
+gsv starter for creating a Gatsby blog
 
-`gatsby new gatsby-blog https://github.com/gatsbyjs/gatsby-starter-blog`
+Install this starter (assuming gsv is installed) by running from your CLI:
+
+`gsv blog:new`
 
 ## Running in development
-`gatsby develop`
+
+`yarn develop`
